@@ -18,9 +18,8 @@ XRAI technical promise page
 - 💎 Visit GEM Documentation [tutorial](https://threejs.org/docs/#api/en/renderers/webxr/WebXRManager)
 - 🧠 Try XRAI demo on [Collab](https://colab.research.google.com/)
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-	<iframe src="https://youtube.com/shorts/wy6fkqO7ikQ" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
+
+<iframe src="https://youtube.com/shorts/wy6fkqO7ikQ?feature=share" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 
 ## Introduction
 
