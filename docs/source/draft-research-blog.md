@@ -19,7 +19,7 @@ XRAI technical promise page
 - 🧠 Try XRAI demo on [Collab](https://colab.research.google.com/)
 
 
-<iframe src="https://youtube.com/shorts/wy6fkqO7ikQ?feature=share" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+<iframe src="https://youtube.com/embed/wy6fkqO7ikQ" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 
 ## Introduction
 
