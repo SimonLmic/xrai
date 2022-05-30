@@ -12,7 +12,7 @@ XRAI technical promise page
 ---
 
 - 👉 [Try the XRAI demo ](https://www.halogem.co/)
-- 👉 Visit the XRAI [project page](https://halogem.co/project)
+- 👉 Visit the XRAI [project page](https://www.halogem.co/solutions/)
 - 👂 Try WebXR Sound Feedback [mobile web app](https://rd.halogem.co/fb/arplayer) on 3D Voice Speaker
 - 👁 Try WebXR Vision Feedback [mobile web app](https://rd.halogem.co/fb/arplayer) on 3D Model Recommender
 - 💎 Visit GEM Documentation [tutorial](https://threejs.org/docs/#api/en/renderers/webxr/WebXRManager)
