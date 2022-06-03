@@ -1,5 +1,4 @@
-<meta name="google-site-verification" content="wfnq1SZ2cgClZEgJ890BipOOfb9svfXYKppecSVNp1w" />
-﻿# XRAI - Hyperlocal AI for  Spatial/Mobility Applications
+# XRAI - Hyperlocal AI for  Spatial/Mobility Applications
 
 Simon Micollier
 May  , 2022
@@ -22,6 +21,7 @@ XRAI technical promise page
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
 	<iframe src="https://youtube.com/embed/wy6fkqO7ikQ" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div> 
+<meta name="google-site-verification" content="wfnq1SZ2cgClZEgJ890BipOOfb9svfXYKppecSVNp1w" />
 
 ## Introduction
 
