@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="wfnq1SZ2cgClZEgJ890BipOOfb9svfXYKppecSVNp1w" />
 ﻿# XRAI - Hyperlocal AI for  Spatial/Mobility Applications
 
 Simon Micollier
