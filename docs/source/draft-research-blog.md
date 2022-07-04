@@ -1,13 +1,15 @@
 # XRAI - Hyperlocal AI for  Spatial/Mobility Applications
 
+.. meta::
+    :description lang=en:
+        XRAI - Hyperlocal AI for  Spatial/Mobility Applications.
+
 Simon Micollier
 May  , 2022
 
 
 ![Capture](https://i.postimg.cc/nVKNCmsV/DHQ-copie.png)
-
----
-XRAI technical promise page
+    :alt: A description of this image
 
 ---
 
@@ -24,6 +26,10 @@ XRAI technical promise page
 <meta name="google-site-verification" content="wfnq1SZ2cgClZEgJ890BipOOfb9svfXYKppecSVNp1w" />
 
 ## Introduction
+
+Problem : Future of the Internet is Metaverse; Intelligent Virtual Assistant and  Recommenders is experiencing a rapid growth and this consumer-facing technology help us to facilitate mutliple tasks of our daily life: Vocal assistant / Siri, Pedestrian mobility direction / Google Maps Live View, this make our life easier by servicing the Data, the Content and more. To Date as Metaverse is emergent there is no scaled experimentation to embed Intelligent Virtual Assistant and Recommenders in the  Metaverse but in the End we will need to have it. 
+
+Solution : Our purpose is to takle this problem by helping metaverse developers with no AI experience to Build AI (Virtual Assistant and Recommenders) for any user context alongside their home/work/mobility journey not only when they pick up their phone but permanently and whenever they need it. To unlock Metaverse development we need a tech that facilitate AI to be embeddded in the new paradigm: Metaverse platforms.
 
 *We were able to run a specialized artificial intelligence Model trained on Hyperlocal datapoints issued by End-Users on our Immersive web application* 
 
