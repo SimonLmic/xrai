@@ -5,15 +5,14 @@ lang: en-US
 ---
 
 # XRAI - Hyperlocal AI for  Spatial/Mobility Applications
-Simon Micollier
-May  , 2022
+<simon.micollier@gmail.com>
 
 
 We're revolutionizing the Metaverse by making AI accessible to virtual reality developers. Our platform empowers anyone, regardless of AI expertise, to seamlessly integrate Virtual Assistants and Recommenders into the Metaverse. Think of us as the HelloFresh for AI in immersive digital reality, delivering automation to VR/AR users. With a focus on high-potential data-driven companies, our 100% API, SaaS solution solves the mobility/spatial deep learning challenge. We envision a future where our technology enables high-accuracy Spatial AI compute, bringing intelligence to Extended Reality and shaping the future of immersive experiences.
 
 
 ![Capture](https://i.postimg.cc/nVKNCmsV/DHQ-copie.png)
-:alt: A description of this image
+	:alt: mobility guidance to optimize your path to checkpoints 
 
 ---
 
@@ -227,9 +226,7 @@ This dataset is a glimpse into the future, where advanced headsets will produce 
 
 **Dataset developer form:**
  
-If you are developing Mobility/Spatial Application hang with us 🦄 :
-
-![Dataset](https://i.postimg.cc/wTSJRSYp/te-le-chargement.png)
+If you are developing Mobility/Spatial Application hang with us, it does not matter if it's too soon to establish contact touchpoint !
 
 Here is some reference to help you get started to make your own Dataset:
 - WebXR [Explainer](https://immersive-web.github.io/webxr/explainer.html)
