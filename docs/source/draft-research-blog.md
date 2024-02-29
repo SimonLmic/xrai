@@ -1,12 +1,15 @@
+---
+title: XRAI - Hyperlocal AI for  Spatial/Mobility Applications
+description: We're revolutionizing the Metaverse by making AI accessible to virtual reality developers.
+lang: en-US
+---
+
 # XRAI - Hyperlocal AI for  Spatial/Mobility Applications
-
-.. meta::
-    :description lang=en:
-
-        XRAI - Hyperlocal AI for  Spatial/Mobility Applications.
-
 Simon Micollier
 May  , 2022
+
+
+We're revolutionizing the Metaverse by making AI accessible to virtual reality developers. Our platform empowers anyone, regardless of AI expertise, to seamlessly integrate Virtual Assistants and Recommenders into the Metaverse. Think of us as the HelloFresh for AI in immersive digital reality, delivering automation to VR/AR users. With a focus on high-potential data-driven companies, our 100% API, SaaS solution solves the mobility/spatial deep learning challenge. We envision a future where our technology enables high-accuracy Spatial AI compute, bringing intelligence to Extended Reality and shaping the future of immersive experiences.
 
 
 ![Capture](https://i.postimg.cc/nVKNCmsV/DHQ-copie.png)
@@ -24,71 +27,79 @@ May  , 2022
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
 	<iframe src="https://youtube.com/embed/wy6fkqO7ikQ" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div> 
+
 <meta name="google-site-verification" content="wfnq1SZ2cgClZEgJ890BipOOfb9svfXYKppecSVNp1w" />
 
 ## Introduction
 
-*Problem* : Future of the Internet is Metaverse; Intelligent Virtual Assistant and  Recommenders is experiencing a rapid growth and this consumer-facing technology help us to facilitate multiple tasks of our daily life: Vocal assistant / Apple's Siri, Pedestrian mobility direction / Google's Maps Live View, this make our life easier by servicing the Data, the Content and more. To Date as Metaverse is emergent there is no scaled experimentation to embed Intelligent Virtual Assistant and Recommenders in the  Metaverse but in the End we will need to have it. 
+**Problem: The Future is the Metaverse**
 
-*Solution* : Our purpose is to takle this problem by helping metaverse developers with no AI experience to Build AI (Virtual Assistant and Recommenders) for any user context alongside their home/work/mobility journey not only when they pick up their phone but permanently and whenever they need it. To unlock Metaverse development we need a tech that facilitate AI to be embeddded in the new paradigm: Metaverse platforms.
+The future of the Internet lies in the *Metaverse*, where virtual and augmented reality, powered by artificial intelligence, are reshaping how we interact with digital content. *Intelligent Virtual Assistants (IVAs)* and *Recommender systems* are rapidly becoming part of our everyday lives, from vocal assistants like Apple's Siri to navigating city streets with Google's Maps Live View. These technologies simplify our daily tasks by providing data and content seamlessly.
 
-*We were able to run a specialized artificial intelligence Model trained on Hyperlocal datapoints issued by End-Users on our Immersive web application* 
+However, as the Metaverse emerges, there's a gap. There haven't been widespread experiments to integrate IVAs and Recommenders into the Metaverse. Yet, as this digital space evolves, incorporating these technologies is inevitable.
 
-*We are the HelloFresh   for  AI-enabled  immersive digital reality : delivering data machines to Virtual Reality and Augmented Reality (VR/AR) humans to automatise their digital labor  through AI - keeping them in Fresh Digital Health !* 
+**Solution: Making AI Accessible in the Metaverse**
 
-Contextual note about Virtual Reality and Augmented Reality (VR/AR)  device to get situated in Y2022: 
-- Few VR devices have been shipped (Meta/FB communicate being ready to loose money to equip end users until 2025).
-- AR devices as Smart Glasses have not kicked off due to Optics display current specification limitation (and price). We believe this market is huge and Smart Phone tech will migrate to Smart Glasses to potentially extend or eventually replace it in Y2025.
+Our mission is to bridge this gap. We aim to assist Metaverse developers, even those without AI expertise, in creating AI, including *Virtual Assistants and Recommenders*. Our goal is to enable AI to be seamlessly integrated into the Metaverse platforms, making it a part of users' daily experiences, whether at home, work, or during their mobility journeys.
 
-The way end-user consume digital content will radically change:  moving your attention to another screen to consume digital information is sub-optimal (we are unsafe/deshumanized walking phone in hands).
+We've successfully implemented a specialized artificial intelligence model trained on hyperlocal data points, collected through our *Immersive web application*.
 
-VR/AR apps combine the display of Digital and Real world together through unique programming interface to manage and develop audio/display, sensors & inputs. By using it End-users can be faster, better, stronger and can experience the impossible.
+Think of us as the *HelloFresh for AI* in immersive digital reality, delivering AI capabilities to *Virtual Reality (VR)* and *Augmented Reality (AR)* users. Our focus is to automate digital labor, ensuring users stay in *"Fresh Digital Health."*
 
-This is a paradigm shift. Here is why we run Mobility/Spatial AI Deep Learning Model on top:  
- 1. The value of all the Hyperlocal Data issued by Spatial applications through sensors and inputs is a key enabler for high accuracy and performance artificial intelligence.
- 2. We believe there is no robust solution on the market for this problem for now and to keep being Expert in that niche will requires a rare combination of skills (3D+AI+CREATIVE).
- 3. The value of being  capable to truely understand End-users and provide them contextualize high accuracy human-level AI enabled services directly from the inside.
+**Context: VR/AR in 2022**
+
+In the current landscape, VR devices are making their way to end-users, with companies like *Meta/Facebook* investing in their widespread adoption. AR devices, such as *Smart Glasses*, are yet to gain momentum due to display limitations and pricing. However, we anticipate a shift, with Smart Glasses potentially replacing or extending smartphones by 2025.
+
+The way users consume digital content is evolving, emphasizing the need for VR/AR applications. These applications merge the digital and real worlds, providing a unique programming interface for managing audio/display, sensors, and inputs. This paradigm shift enhances user experiences, making them faster, better, and capable of achieving the seemingly impossible.
+
+**Mobility/Spatial AI for Paradigm Shift**
+
+Our approach includes running *Mobility/Spatial AI Deep Learning Models* on top of VR/AR applications. This approach is driven by:
+
+1. **Hyperlocal Data:** Leveraging data from spatial applications for high accuracy AI.
+2. **Niche Expertise:** Recognizing the scarcity of skills in combining *3D, AI, and creative elements*.
+3. **Understanding End-users:** Providing contextualized, high-accuracy AI services directly within the user's experience.
+
+**Use Cases Unlocking Services**
+
+Our technology opens doors to new services in various sectors:
+
+- **Outdoor Pedestrians Tasks:** Enhancing sports performance, gamification, and more.
+- **Health Services Tasks:** Enabling surgeon act control, monitoring, acrophobia detection, and more.
+- **Indoor Services Tasks:** Facilitating Drone AI Pathfinding, Super Human augmented applications, in-person navigation in shops, and more.
+- **Gaming & Social Services Tasks:** LLMs, ChatGPT for non player characters, Space control and monitoring.
+- **Immersive Payment Services:** Introducing zero-friction virtual card payments, transaction control, and monitoring.
+
+While these business cases can be implemented, their success will depend on the adoption of VR/AR devices.
+
+**Problem: Mobility/Spatial Deep Learning as a Service**
+
+**Solution: 100% API, SaaS Solutions**
+
+We address the challenge of *mobility/spatial deep learning as a service* with a 100% API solution. Our *Software as a Service (SaaS)* offerings specialize in solving this problem, focusing on high-potential data-driven companies.
+
+**Vision: Enabling High Accuracy Spatial AI Compute**
+
+Our vision is to serve as an enabler for high-accuracy Spatial AI compute, bringing AI to *Extended Reality (XR)* and enabling intelligent meta-worlds. In essence, we strive to make AI an integral part of the immersive experiences in the evolving digital landscape.
 
 
-The Use of this technology in some business case can unlock emerging Services for BtoB/BtoBtoC or accelerate them :
+### Key Features
 
-| Task | Task Details |
-|--|--|
-| Outdoor Pedestrians Tasks |Sport performance assistant; gamification, |
-| Health services Tasks |Surgeon Act Control and monitoring; Acrophobia detection,
-| Indoor services Tasks | Drone AI PathFinder; Super Humans augmented applications (audio translate, info context and a lot more undiscovered apps); Shop In-Person navigation |
-| Gaming &Social services Tasks| AI Control and Monitoring automation to ensure both Users and Metaverse Site (Vendor's content) is protected against harassment; behaviour out of policies, integrity and moderated exposition,| 
-| Immersive Payment services | Zero-Friction Virtual Card Payment; Transaction Control and Monitoring, | 
+- **Problem to Solve:**  
+  - Addressing the challenge of *Mobility/Spatial Deep Learning as a Service*.
 
-Technically this business cases can already be implemented but will be driven by hardware (VR/AR devices) 🍎.
+- **Significance:**
+  - VR/AR applications heavily rely on Sensors and Inputs, unlocking substantial hyperlocal data on end-users' devices—the future of Software and applications.
+  - Consumer businesses seek AI-enabled VR/AR content for enhanced user engagement, while corporations aim for performance improvement and manual work automation through AI.
 
-**Problem** : mobility/spatial deep learning as a service 
+- **Target Users:**
+  - *Consumer Businesses:* Enhance Metaverse spaces with StopShop or Entertainment, delivering the value of AI and 3D through AI-enabled Spaces.
+  - *Corporate Businesses:* Optimize Digitized Spaces like Warehouses or Medical facilities with Operators/Employees, leveraging AI and 3D for data-driven Control & Monitoring operations.
 
-**Solution** : 100% API, We solve the problem with SAAS solutions specialized on this problem with a focus on high potential data-driven companies. 
-
-**Vision** :
-- Enabler for high accuracy Spatial AI compute
-- Bringing AI to XR to Enable intelligent meta wolds
-
-
-### Key props
-
-- **What is the given problem to solve?**  
-	- Mobility/Spatial Deep Learning as a Service
-- **Why we need to have it?**
-	- VR/AR applications are driven by  Sensors and Inputs to run, and can consequently unlock tremendous hyperlocal data on end-users device: this is the future of Software and applications 
-	-  Consumer business they wont' consume all  the VR/AR content that is beautiful but that is not AI enabled
-	- Corporate business they always wanted Performance and to replace manual work by machines
-	-  AI is already complex to implement technically in Business case: an AI specialization for VR/AR will be even more painful to implement for business as it combines different technical fields to fitin
-
-- **Who will be using it?**
-	- Consumer business with Spaces in Metaverse with StopShop or Entertainment, bringing the value of AI and 3D through AI-enabled Spaces.
-	- Corporate business with Digitized Spaces Warehouse or Medical with Operators/employee, bringing the value of AI and 3D through employee data to Control&Monitoring operations.
-
-- **How this will be achieved ?**
-	- Separating Technical and Functional,  technical expertise through 100% API solution,   implementing API in their business application 
-	- AI model specialization providing all the End to End AI Learning pipeline to accelerate : performant / scalable / multi model (Recommenders, Classifiers and Generators) XR dataset / Training challenge / Execution 
-	- Being Expert on that field and  moving fast in flow
+- **Implementation Approach:**
+  - *Technical Expertise:* Offer a 100% API solution, enabling businesses to seamlessly integrate technical capabilities into their applications.
+  - *AI Model Specialization:* Provide an End-to-End AI Learning pipeline, ensuring performant, scalable, and multi-model (Recommenders, Classifiers, and Generators) solutions for XR datasets, training challenges, and execution.
+  - *Expertise and Agility:* Demonstrate expertise in the field and a commitment to agile development for swift advancements in the flow of innovation.
 
 
 ## Room Task Example 
@@ -97,12 +108,23 @@ Technically this business cases can already be implemented but will be driven by
 VIDEO of the Tensor Core task FP16 resolution FP32 resolution
 
 
-## Key Features or capabilities
+### Technical Approach with Product Specialized Modules
 
-- **Hyper-Grid :** Representing Real World & Virtual Spaces as multi-dimensional grids in which your operators/employees and end-users operate: for example a digital twin parcel of an Hangar block, a Fantasy corner and a Virtual room in the Metaverse. 
-- **XRAI Learnings :** Training Model for the given First-Person user session samples to *[**Think**]* and *[**Act**]*  through   predictions, recommendations, contextual actions and choices along operator/end-user journey.
-- **XRAI Inference :** Serving the results of AI computation for different applications including User situation detection in Mobility, Travel, Health, Security and Consumer use cases.
-- **XRAI Com Interface :** *[**Communicating**]* Immersive Feedbacks to your Spatial application in  Digital Ears and Digital Eyes of your Users.
+#### Hyper-Grid
+
+Representing Real World & Virtual Spaces as multi-dimensional grids in which your operators/employees and end-users operate. For example, a digital twin parcel of a Hangar block, a Fantasy corner, and a Virtual room in the Metaverse.
+
+#### XRAI Learnings
+
+Training Model for the given First-Person user session samples to *Think* and *Act* through predictions, recommendations, contextual actions, and choices along the operator/end-user journey.
+
+#### XRAI Inference
+
+Serving the results of AI computation for different applications, including User situation detection in Mobility, Travel, Health, Security, and Consumer use cases.
+
+#### XRAI Com Interface
+
+*Communicating* Immersive Feedbacks to your Spatial application in Digital Ears and Digital Eyes of your Users.
 
 
 ![Model Capabilities](https://lucid.app/publicSegments/view/2a4f2ae5-caea-4a00-8ced-51a654651e9e/image.png)
@@ -110,67 +132,98 @@ VIDEO of the Tensor Core task FP16 resolution FP32 resolution
 
 ## Model Architecture
 
-- **What is our Model given problem to solve ?**
-	- a performant and scalable specialization of AI to solve Mobility/Spatial Deep Learning as a service through Model capabilities applied to multiple business cases
-- **Why we have to have  it?**
-	- Document Signal: Text, Audio and Image documents have their own structure: for example the Sound can be represented as a 2D wave and Image as 2D/3D Grids -- But for **User Spatial Sessions*** documents the more is different: User Spatial Sessions in our representation is a set of Spatial Datapoints **6DOF*** coordinates as End-Users are First-Person (camera) Datapoints:
-		- Each Datapoint  is NOT meaningful or expressive if considered one by one independently with an applied linear regression
-		- So we had to connect each Datapoint all together as a Spatial Graph with our Hypergrid geometric data structure, to materialize documents structure for high-accuracy model training
-	- Bringing the best MODEL for spatial/mobility compute results which we reported here in this article through our AI specialization to accelerate that field
+- **Problem we're Addressing:**
+	- Creating a powerful and adaptable AI system to address the challenges of Mobility/Spatial Deep Learning as a service across various business scenarios.
 
-***6DOF**:  6 degree of freedom when the user can browse digital/real world with a First-person view
+- **Why It's Essential:**
+	- **Document Signal:** Text, Audio, and Image documents have defined structures, like 2D waves for sound and 2D/3D grids for images. However, **User Spatial Sessions*** documents are unique. In our representation, they consist of sets of Spatial Datapoints with **6DOF*** coordinates, as users experience the environment in a First-Person (camera) perspective.
+		- Each Datapoint lacks meaning when considered independently, requiring a connection in a Spatial Graph using our Hypergrid geometric data structure. This approach ensures a meaningful document structure for precise model training.
+	- Our model specializes in delivering the best results for spatial/mobility computations, showcased in this article, accelerating advancements in this field through our AI specialization.
 
-***User Spatial Session**: is  one activity in  the Metaverse which have a time start, a time end and one identifier 
+## Definitions for Non-Technical Audience
 
-**XRAI Model** is a trained Spatial AI model ; It uses Structural Geometric Neural Network (GraphNN) model as the backbone architecture, and other model for Signal Image, Text and Audio (for example Multimodal and pre-trained STT/TTS to send feedback to end-users) and it builds additional services on top of it . See the figure below for the overall model architecture for inference. 
+- **6DOF:** Stands for 6 degrees of freedom, giving users the ability to explore the digital or real world in a first-person view. It means users can move in six different ways—forward/backward, up/down, left/right, pitch, yaw, and roll.
+
+- **User Spatial Session:** Imagine it as one activity in the Metaverse, like a unique experience you have. It has a start time, an end time, and a specific identifier, making it a distinct journey or interaction within the virtual space.
+
+
+## XRAI Model Overview
+
+**XRAI Model** is like a highly trained guide for Spatial AI—it uses advanced technologies to understand and navigate the virtual world. Think of it as the brains behind making virtual reality smart and interactive. Here's a simple breakdown:
+
+### Architecture
+
+XRAI employs a Structural Geometric Neural Network (GraphNN) as its core structure. It also integrates other models for processing Image, Text, and Audio signals, enhancing its abilities to provide feedback to users.
+
+### Hypergrid
+
+It's like a helper for the XRAI Model, sorting out data into spatial (related to space) and non-spatial categories.
+
+- For spatial data (like where you move), it connects points to create a visual map for the specialized Model processor.
+- For non-spatial data (other info), it organizes it into a table-like structure for easy handling.
+
+### Specialized Techniques
+
+XRAI is a Spatial AI expert, using various techniques (fancy tools like Data Normalization, GAN, Auto-Encoders, and more) to provide top-notch spatial AI computations. It's like having a high-tech assistant for virtual adventures.
+
+### Accelerated Hardware
+
+XRAI loves speed! It supports fancy hardware to run as XRAI accelerates Mobility/Spatial AI Deep Learning through software specialization. But, keep in mind, it's hungry for data.
+
+### Monitoring and Control
+
+XRAI isn't just smart; it's also self-aware. It introduces tools and metrics to watch over every step of the training and decision-making process. This ensures it stays sharp and can quickly adapt in case things go off track.
+
+### Who Benefits?
+
+XRAI is here for all the developers working on spatial/mobility applications. They can focus on making cool stuff while XRAI handles the complex Spatial AI parts—like a helpful sidekick for VR/AR and AI enthusiasts.
+
+### How It Works
+
+XRAI understands space and movement (Spatial Data), uses geometric tricks (Spatial geometric operators), and applies its knowledge (XRAI Model) for advanced 3D/6DOF AI Compute capabilities during training and real-world tasks.
+
+Now, you have a glimpse of how XRAI makes the virtual world smarter and more interactive without needing to dive into the technical details! 🚀
 
 ![Model Architecture](https://lucid.app/publicSegments/view/db41eb70-db8b-4abf-839e-77dfa8a851a5/image.png)
-- Hypergrid is a data pre-processor separating spatial and non-spatial data:
-	- connect spatial Datapoints geometrically to output the Session graph for our specialized Model  processor
-	- format not spatial Datapoints for a tabular data Model processor
 
- XRAI is a  specialized Spatial AI model and a Model manager as it employs different deep-learning techniques together (Data Normalisation and Scaling pipelines, STT/TTS,  GAN,  Auto-Encoders, Recurrent NN) to achieve best performing Spatial AI computations. It is mainly build on GNN model. The XRAI Model is computation intensive so it supports accelerated hardware to run as XRAI  accelerate Mobility/Spatial AI Deep Learning through software specialization . However, its biggest weakness is the lack of end-user dataset. 
+## Dataset Exploration
 
-XRAI improves on it by introducing tools and metrics to monitor and control all steps of the Training and Inference process: from data input, to feature, to training and inference: we have batch and real-time metrics output and Task follow-up to track our performance. So we can fast fix in case of convergence or quality drop by redeploying best model. This result in robust solution to keep in production best model for business-case MVP and performance Spatial AI Model as reported here.
+Our mobile web app prototype, developed using Three.js and WebXR, serves as a playground for user testing data. Accessible on WebXR-enabled browsers like [Mozilla WebXR Viewer](https://apps.apple.com/fr/app/webxr-viewer/id1295998056) for IOS, it provides a glimpse into the future where headsets like Apple Vision Pro or META Quest are mainstream. Although the technical code is a work in progress, the prototype serves its purpose well and can be enhanced further with technologies like TypeScript and react-three-fiber.
 
-- **Who will be using it ?**
-	- all spatial/mobility applications developers who want to focus on their business  and delegate all the complexity of Spatial AI to an API specialized on the intersection between VR/AR and AI.
+### Purpose of Development
 
-- **How this will be achieved?**
-	- Spatial Data representation for Items (ID/SKU), Terrain (ID/SPACE) and User session (DATAPOINTS)
-	- Spatial geometric operators (CONV3D) and XRAI Model (NN)
-	- Training/Inference Tasks for 3D/6DOF AI Compute Model capabilities  
+The aim was to create a mobile application sandbox to collect user testing data, especially given the lack of a suitable public dataset for our Mobility and Spatial AI use case. The prototype resembled a Stop Shop supporting both AR and VR, displaying a 3D Fantasy corner and merchant products in a digital environment.
 
-## Dataset
+### User Interaction
 
-The mobile web app prototype we developed is a Progressive Web App (PWA) build on Three.js and WebXR, can be accessed on a WebXR enabled browser for IOS (for example  [Mozilla WebXR Viewer](https://apps.apple.com/fr/app/webxr-viewer/id1295998056) ). We didn't invested too much on the technical code build but it can be improved with Typescript and react-three-fiber. 
+End-users could engage with the digital environment, seeing calls to action like Display or Add to Cart for 3D products. Although we didn't implement the Payment API, users could further explore personalized retail products recommended by the system, such as a motorcycle or a jacket.
 
-The purpose of this development was to have a mobile application sandbox to collect user testing data because there is no good public Dataset for our Mobility and Spatial AI use case.
+### Development Output
 
-This prototype was looking like a Stop Shop supporting AR and VR to display a digital environment (3D Fantasy corner) and  a product (3D Product of the merchant).
+Our development resulted in a spatial interface for end-users, incorporating visual displays, audio sounds, and integration with the XRAI Model for inference.
 
-The End-users can see some call to actions to Display or Add To Cart 3D Products (we did not implemented the Payment API) and further access to End-user Product Recommended/personalized Retail products like a motorcycle or a jacket.
+### Dataset Creation
 
-The result of our development allowed us to output a Spatial interface for End-users with visual display, audio sound and our Think, Act & Communicate API integrated with XRAI Model for inference.
+- **Dataset Problem:**
+  - User Spatial Sessions, a collection of spatial datapoints containing features like End-User Spatial Position coordinates, Digital Eye vector, and End-User Activities.
+  - User Sessions include non-spatial data like User Agent, OS, and metadata.
+  - Data was dynamically sent by our Mobile App and stored in MongoDB. To build our dataset, we developed a database connector, downloading User Spatial Sessions from around 20 testing users.
 
-- **What is our DATASET given problem to solve ?**
-	- User Spatial Sessions is a set of spatial Datapoint containing features:
-		- End-User Spatial Position coordinates in 6DOF space reference
-		- End-User Digital Eye vector for example mobile camera direction and the intersection between user and tracked items
-		- End-User Activities for example his interaction with Digital OR Real world
-	-  User Sessions have not spatial data for example: User Agent,  OS and metadata.
-	- Data was sent on the fly by our Mobile Application and saved in  MongoDB, so to built our Dataset we developed a database connector to download User Spatial Sessions issued by ~ 20 testing users.
-- **Why we choose this Dataset instead of already existing one?**
-	- No public Dataset available earlier so we needed to have one
-	- To capitalize in our experience to help you Bring your own Dataset to the platform and to challenge our Model
-- **Who will be using it?** 
-	- Spatial Application Developers commercializing VR/AR applications
-	- Spatial Hardware Developers for specific industrial case (Drone/Healthcare or sport)
-- **How we created this Dataset general technical & functional data processing steps?**
-	- filtering the not representative sample
-	- subset to challenge the most complex samples by clusters (for example: similar user sessions for In-Shop User Session time spent between 10 and 20 sec that have only see product with no digital interactions with the product of the vendor)
-	- blacklisting personal privacy features
-	- normalizing sample features
+- **Choosing Our Dataset:**
+  - No public dataset was available earlier, necessitating the creation of our own.
+  - Capitalizing on our experience, we aim to assist others in bringing their datasets to the platform and challenging our model.
+
+- **Who Benefits:**
+  - Spatial Application Developers commercializing VR/AR applications.
+  - Spatial Hardware Developers for specific industrial cases like Drone, Healthcare, or Sports.
+
+- **Dataset Creation Steps:**
+  - Filtering non-representative samples.
+  - Subsetting to challenge the most complex samples through clusters (e.g., similar user sessions in-shop with a time spent between 10 and 20 seconds, only viewing products without digital interactions).
+  - Blacklisting personal privacy features.
+  - Normalizing sample features.
+
+This dataset is a glimpse into the future, where advanced headsets will produce a wealth of datapoints, allowing us to refine and enhance our models for even more immersive experiences.
 
 **Dataset developer form:**
  
@@ -185,29 +238,33 @@ Here is some reference to help you get started to make your own Dataset:
 - XR for your Device OS with [Unity XR](https://docs.unity3d.com/Manual/XR.html), ARKIT, ARCORE
 
 
-## Training
+## Model Training
 
-- **What is the given problem for Training to Solve?** 
-	- Training is performed against multiple Referent Spaces and further requires generalization to run inference against any Referent Spaces
-	- Poly-Data (polymorphism) due to the various End-User device and sensors, Data requires to be preped for Training
-	-  Geometric (6DOF) neural network is Ressource-intensive
+- **What's the Problem?**
+  - Training needs to work across different spaces and adapt to various devices and sensors.
+  - Data needs special preparation before training due to different devices and polymorphic data.
+  - The 6DOF neural network used for spatial understanding demands a lot of computing power.
 
-- **Why we have to solve Training for this problem?**
-	-  User Session Graph for End-User 1 in User Referent Space 1 with a SmartPhones train the same model as User Session Graph for End-User 2 in User Referent-Space 2 with SmartGlasses
-	- Training for 6DOF Neural Network is Ressource-intensive 
-	- Have training robust to scale
+- **Why Solve Training?**
+  - Training needs to be universal, whether it's a user with a smartphone in one space or someone with smart glasses in another.
+  - The process is demanding, especially for the complex 6DOF neural network.
+  - We need a robust training system that can handle different scales effortlessly.
 
-- **Who will be using it?**
-	- Data Scientist and Developers
-	
-- **How this will be achieved?**
-	- Training is easy to manage its like Continuous Training for Data-driven AI accelerated system    
-	- With Continuous Monitoring/Alerting for all the Training Metrics we think are relevant for our AI specialization (and against baseline).
-	- Space segmentation, Space invariance through normalization and precision resolution adjust. 
-	- Fine tuning is possible by Training the model on more steps for a particular Dataset clusters or a new Dataset
-	- Model hyper parameters is possible through a model structure file definition
-	- Model Flow with parallelization, saving and deployment
-	- Model Configuration with  batch size (3),  optimizer (Adam) , learning rate gamma (0.001), weight decay (0.01)
+- **Who Uses It?**
+  - Data Scientists and Developers.
+
+### How It Works
+
+- **Achieving Seamless Training**
+  - It's like Continuous Training for our smart AI system.
+  - Continuous Monitoring ensures we stay on track, comparing against set benchmarks.
+  - Techniques like space segmentation, normalization, and resolution adjustments maintain consistency across spaces.
+  - Fine-tuning allows us to enhance the model for specific dataset clusters or new datasets.
+  - Adjusting model hyperparameters is possible through a simple model structure file definition.
+  - The model flows smoothly with parallelization, saving, and deployment.
+  - Configuration details like batch size (3), optimizer (Adam), learning rate gamma (0.001), and weight decay (0.01) can be customized.
+
+Training the AI model becomes a well-managed, adaptable, and efficient process, making our spatial understanding technology reliable and effective.
 
 ---
 That is a End-User User Reference Space :
